@@ -1,0 +1,154 @@
+{
+  "Product": [
+    {
+      "Id": 1,
+      "Name": "Smartphone X",
+      "Price": 699.99,
+      "Quantity": 150,
+      "BrandId": 1,
+      "CategoryId": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Laptop Pro",
+      "Price": 1199.99,
+      "Quantity": 80,
+      "BrandId": 2,
+      "CategoryId": 2
+    },
+    {
+      "Id": 3,
+      "Name": "Wireless Headphones",
+      "Price": 199.99,
+      "Quantity": 200,
+      "BrandId": 1,
+      "CategoryId": 3
+    },
+    {
+      "Id": 4,
+      "Name": "Gaming Console",
+      "Price": 499.99,
+      "Quantity": 50,
+      "BrandId": 3,
+      "CategoryId": 4
+    }
+  ],
+  "Brand": [
+    {
+      "Id": 1,
+      "Name": "TechCorp"
+    },
+    {
+      "Id": 2,
+      "Name": "Innova"
+    },
+    {
+      "Id": 3,
+      "Name": "GameMaster"
+    }
+  ],
+  "Category": [
+    {
+      "Id": 1,
+      "Name": "Mobile Devices"
+    },
+    {
+      "Id": 2,
+      "Name": "Computers"
+    },
+    {
+      "Id": 3,
+      "Name": "Accessories"
+    },
+    {
+      "Id": 4,
+      "Name": "Gaming"
+    }
+  ],
+  "Sale": [
+    {
+      "Id": 1,
+      "ProductId": 1,
+      "Date": "2024-07-15",
+      "QuantitySold": 20,
+      "TotalAmount": 13999.8
+    },
+    {
+      "Id": 2,
+      "ProductId": 2,
+      "Date": "2024-08-05",
+      "QuantitySold": 10,
+      "TotalAmount": 11999.9
+    },
+    {
+      "Id": 3,
+      "ProductId": 3,
+      "Date": "2024-09-10",
+      "QuantitySold": 50,
+      "TotalAmount": 9999.5
+    },
+    {
+      "Id": 4,
+      "ProductId": 4,
+      "Date": "2024-10-12",
+      "QuantitySold": 5,
+      "TotalAmount": 2499.95
+    },
+    {
+      "Id": 5,
+      "ProductId": 1,
+      "Date": "2024-08-22",
+      "QuantitySold": 15,
+      "TotalAmount": 10499.85
+    },
+    {
+      "Id": 6,
+      "ProductId": 2,
+      "Date": "2024-09-14",
+      "QuantitySold": 8,
+      "TotalAmount": 9599.92
+    },
+    {
+      "Id": 7,
+      "ProductId": 3,
+      "Date": "2024-10-18",
+      "QuantitySold": 30,
+      "TotalAmount": 5999.7
+    },
+    {
+      "Id": 8,
+      "ProductId": 4,
+      "Date": "2024-07-25",
+      "QuantitySold": 3,
+      "TotalAmount": 1499.97
+    },
+    {
+      "Id": 9,
+      "ProductId": 1,
+      "Date": "2024-10-28",
+      "QuantitySold": 10,
+      "TotalAmount": 6999.9
+    },
+    {
+      "Id": 10,
+      "ProductId": 2,
+      "Date": "2024-09-30",
+      "QuantitySold": 5,
+      "TotalAmount": 5999.95
+    },
+    {
+      "Id": 11,
+      "ProductId": 3,
+      "Date": "2024-07-03",
+      "QuantitySold": 40,
+      "TotalAmount": 7999.6
+    },
+    {
+      "Id": 12,
+      "ProductId": 4,
+      "Date": "2024-08-11",
+      "QuantitySold": 7,
+      "TotalAmount": 3499.93
+    }
+  ]
+}
